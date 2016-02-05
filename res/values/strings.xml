@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AccountPad</string>
+    <string name="add_account">Add new account</string>
+    <string name="name">Name:</string>
+    <string name="iban">IBAN:</string>
+    <string name="save">Save</string>
+    <string name="unknown_country">This IBAN has an unknown country code. Please make
+    sure that the first two letters are right and try again.</string>
+    <string name="incorrect_length">This IBAN isn\'t the right length for this
+    country. IBAN\'s in %1$s are %2$d characters long. Please check the IBAN and
+    try again.</string>
+    <string name="invalid_iban">The entered IBAN was invalid. Most likely one of the
+    numbers was wrong. Please check the IBAN and try again.</string>
+    <string name="empty_fields">Please fill in both the name and IBAN fields.</string>
+    <string name="no_accounts">There are no accounts yet.</string>
+    <string name="copy_iban">Copy IBAN</string>
+    <string name="remove">Remove</string>
+    <string name="copied">The IBAN for %1$s has been copied to the clipboard.</string>
+</resources>
